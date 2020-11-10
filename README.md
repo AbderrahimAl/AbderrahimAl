@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello Wold 👋 I'm Abderrahim Alakouche</h1>
 
-<!--
-**AbderrahimAl/AbderrahimAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently a second year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
+passionate about the field of Data Science and Machine Learning .
+
+<p>
+  <img width="380" align='right' src="https://github-readme-stats.vercel.app/api?username=AbderrahimAl&show_icons=true&hide_border=true"></a>
+</p>
+<br>
+
+
+
+- 👯 I’m looking to collaborate on **ML & DL Projects**
+- 🤔 I’m looking for help with **learning data science**
+- 💬 cantact me in linkedin :[My Linkedin Profile](https://www.linkedin.com/in/abderrahim-alakouche-66470118b/)
+- 📫 my email :**abderrahimalakouche@gmail.com**
+
+
