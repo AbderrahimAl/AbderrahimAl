@@ -4,7 +4,7 @@
 
 
 Currently a second year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
-passionate about the field of Data Science and Machine Learning .
+Passionate about the field of Data Science and Machine Learning .
 
 <p>
   <img width="380" align='right' src="https://github-readme-stats.vercel.app/api?username=AbderrahimAl&show_icons=true&hide_border=true"></a>
