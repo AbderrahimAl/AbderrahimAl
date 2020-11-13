@@ -10,7 +10,7 @@ Passionate about the field of Data Science and Machine Learning .
 
 
 - ⚡ I’m looking to collaborate on **ML & DL Projects**
-- 🤔 I’m looking for help with **learning data science**
+- 🤔 I’m looking for help with **learning Data Science**
 - 💬 cantact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/abderrahim-alakouche-66470118b/)
 - 📫 my email address :**abderrahimalakouche@gmail.com**
 
