@@ -15,3 +15,13 @@ Passionate about the field of Data Science and Machine Learning .
 - 📫 my email address :**abderrahimalakouche@gmail.com**
 
 
+<br>
+<br>
+
+<p align="center">
+You have finally discovered my Github profile, so let's get connected!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
+</p>  
