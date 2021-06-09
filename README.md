@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=AbderrahimAl.AbderrahimAl)'
 
 <h1 align="center">Hello World 👋 I'm Abderrahim Alakouche</h1>
 
