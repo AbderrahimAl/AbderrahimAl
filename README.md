@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=AbderrahimAl.AbderrahimAl)'
+
 <h1 align="center">Hello World 👋 I'm Abderrahim Alakouche</h1>
 
 Currently a second year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
