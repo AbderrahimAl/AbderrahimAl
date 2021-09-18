@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World 👋 I'm Abderrahim Alakouche</h1>
 
-Currently a second year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
+Currently a 3rd year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
 Passionate about the field of Data Science and Machine Learning .
 
 <p>
