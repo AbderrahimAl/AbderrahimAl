@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello World 👋 I'm Abderrahim Alakouche</h1>
+<h1 align="center">Hi there 👋</h1>
 
-Currently a 3rd year student in Data Engineering at the National Institute of Posts and Telecommunications [INPT-Rabat](http://www.inpt.ac.ma/#). 
+I am Abderrahim, your new friend :) Currently working as a Data scientist at Redfield AB. 
 
 <p>
   <img width="380" align='right' src="https://github-readme-stats.vercel.app/api?username=AbderrahimAl&show_icons=true&hide_border=true"></a>
@@ -9,10 +9,10 @@ Currently a 3rd year student in Data Engineering at the National Institute of Po
 <br>
 
 
-- ⚡ I’m looking to collaborate on **ML & DL Projects**
-- 💬 Contact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/abderrahim-alakouche-66470118b/)
-- 📫 My email address :**abderrahimalakouche@gmail.com**
-- 🌐 [**My portfolio**](https://abderrahim-alakouche.netlify.app/)
+
+- 💬 Contact me on Linkedin:[**My Linkedin Profile**](https://www.linkedin.com/in/abderrahim-alakouche-66470118b/)
+- 📫 My email address:**abderrahimalakouche@gmail.com**
+- 🌐 My portfolio: https://alakouche.vercel.app/about
  
 
 <br>
