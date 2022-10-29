@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I am Abderrahim, your new friend :) Currently working as a Data scientist at Redfield AB. 
+I am Abderrahim, your new friend :) A data scientist focused on natural language processing and developing open-source tools.
 
 <p>
   <img width="380" align='right' src="https://github-readme-stats.vercel.app/api?username=AbderrahimAl&show_icons=true&hide_border=true"></a>
