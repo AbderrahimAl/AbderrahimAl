@@ -3,11 +3,10 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AbderrahimAl&show_icons=true&theme=dark&hide_border=true">](https://metrics.lecoq.io/abderrahimal)
 
-I`m Abderrahim, A data scientist focused on natural language processing and developing open-source tools.
+Welcome to my GitHub profile! Here, you'll find a collection of repositories where I share my projects and contribute to open source. I'm passionate about improving the accessibility and usability of data 🚀
 
 
-- 💬 Contact me: [**@Twitter**](https://twitter.com/Abderrahim_Al_) or [**@Linkedin**](https://www.linkedin.com/in/abderrahim-alakouche-66470118b/)
-- 🌐 My portfolio: https://alakouche.vercel.app/about
+- 💬 Contact me: [**@Twitter**](https://twitter.com/AbderrahimAl_) or [**@Linkedin**](https://www.linkedin.com/in/abderrahimal)
  
 
 <br>
